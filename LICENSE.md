@@ -1,4 +1,4 @@
-# 
+# Seguro AI Emotion Detection from Text plugins. Com IA generativa e reconhecimento de imagens — otimizado para máximo desempenho.
 
 
 
